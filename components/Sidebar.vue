@@ -30,13 +30,6 @@
 					<a href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download as PDF</a>
 				</p>
 			</section>
-
-			<!-- <section>
-				<p>Experience</p>
-				<p>Education</p>
-				<p>Volunteering</p>
-				<p>Skills</p>
-			</section> -->
 		</div>
 	</aside>
 </template>

@@ -75,7 +75,6 @@
 
 	@media screen and (min-width: 768px) and (max-width: 950px) {
 		main {
-			/* height: 100vh; */
 			overflow-y: scroll;
 			overflow-x: hidden;
 		}
@@ -99,13 +98,6 @@
 			display: flex;
 		}
 	}
-
-	/* @media screen and (min-width: 1450px) {
-		.charms.achievements,
-		.charms.education {
-			display: flex;
-		}
-	} */
 
 	.v-divider {
 		opacity: 60% !important;

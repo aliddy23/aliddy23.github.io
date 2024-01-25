@@ -23,11 +23,3 @@
 		</v-row>
 	</section>
 </template>
-
-<style scoped>
-	@media screen and (max-width: 900px) {
-		div.text-grey-lighten-1 {
-			display: block !important;
-		}
-	}
-</style>
