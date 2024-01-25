@@ -55,7 +55,7 @@
 	}
 
 	main {
-		padding: 60px 40px 40px 40px;
+		padding: 40px;
 	}
 
 	@media screen and (min-width: 1300px) {

@@ -1,7 +1,7 @@
 <template>
 	<aside class="bg-blue-grey-darken-4 elevation-12">
 		<div>
-			<v-avatar class="ml-n6 mt-12 mb-6 elevation-8" :size="200" image="https://avatars.githubusercontent.com/u/42472908"></v-avatar>
+			<v-avatar class="ml-n6 mb-6 elevation-8" :size="200" image="https://avatars.githubusercontent.com/u/42472908"></v-avatar>
 			<section class="mb-12">
 				<h4 class="text-h3 mt-3 mb-1" style="font-weight: 700 !important">Aidan</h4>
 				<h4 class="text-h3" style="font-weight: 700 !important">Liddy</h4>
@@ -49,6 +49,10 @@
 			margin-left: 56px;
 			padding: unset !important;
 		}
+
+		.v-avatar {
+			margin-top: 100px;
+		}
 	}
 
 	@media screen and (min-width: 1300px) {
@@ -67,12 +71,20 @@
 			margin-left: auto;
 			padding: unset !important;
 		}
+
+		.v-avatar {
+			margin-top: 100px;
+		}
 	}
 
 	@media screen and (max-width: 950px) {
 		aside > div {
 			margin-left: 56px;
 			padding: unset !important;
+		}
+
+		.v-avatar {
+			margin-top: 36px;
 		}
 	}
 
