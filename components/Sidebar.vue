@@ -26,8 +26,8 @@
 					<a href="https://www.instagram.com/liddy.aidan" target="_blank"><v-icon class="mr-2">mdi-instagram</v-icon>liddy.aidan</a>
 				</p>
 
-				<p class="d-flex mt-12">
-					<a href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-download</v-icon>Download as PDF</a>
+				<p class="d-flex mt-12 pb-12">
+					<a href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download as PDF</a>
 				</p>
 			</section>
 
@@ -42,12 +42,31 @@
 </template>
 
 <style>
-	@media screen and (min-width: 1100px) {
+	@media screen and (min-width: 950px) and (max-width: 1300px) {
+		aside {
+			max-width: 400px;
+			width: 100%;
+			background: #404040;
+			float: left;
+			overflow-y: scroll;
+			height: 100vh;
+		}
+
+		aside > div {
+			margin-left: 56px;
+			padding: unset !important;
+		}
+	}
+
+	@media screen and (min-width: 1300px) {
 		aside {
 			max-width: 525px;
 			width: 100%;
 			background: #404040;
 			float: left;
+			overflow-x: hidden;
+			overflow-y: scroll;
+			height: 100vh;
 		}
 
 		aside > div {
@@ -57,8 +76,15 @@
 		}
 	}
 
+	@media screen and (max-width: 950px) {
+		aside > div {
+			margin-left: 56px;
+			padding: unset !important;
+		}
+	}
+
 	aside {
-		height: 100vh;
+		min-height: 100vh;
 	}
 
 	aside * {

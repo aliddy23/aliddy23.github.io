@@ -56,9 +56,26 @@
 		background: #080808 !important;
 	}
 
-	@media screen and (min-width: 768px) {
+	@media screen and (min-width: 1300px) {
 		main {
 			height: 100vh;
+			overflow-y: scroll;
+			overflow-x: hidden;
+			padding-right: 132px;
+		}
+	}
+
+	@media screen and (min-width: 950px) and (max-width: 1300px) {
+		main {
+			height: 100vh;
+			overflow-y: scroll;
+			overflow-x: hidden;
+		}
+	}
+
+	@media screen and (min-width: 768px) and (max-width: 950px) {
+		main {
+			/* height: 100vh; */
 			overflow-y: scroll;
 			overflow-x: hidden;
 		}
@@ -83,12 +100,12 @@
 		}
 	}
 
-	@media screen and (min-width: 1450px) {
+	/* @media screen and (min-width: 1450px) {
 		.charms.achievements,
 		.charms.education {
 			display: flex;
 		}
-	}
+	} */
 
 	.v-divider {
 		opacity: 60% !important;
