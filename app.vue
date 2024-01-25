@@ -5,13 +5,11 @@
 				<Sidebar />
 
 				<main>
-					<v-container class="px-10 py-12">
-						<Experience />
-						<Education />
-						<Volunteering />
-						<Achievements />
-						<Skills />
-					</v-container>
+					<Experience />
+					<Education />
+					<Volunteering />
+					<Achievements />
+					<Skills />
 				</main>
 			</v-main>
 		</v-layout>
@@ -54,6 +52,10 @@
 	body,
 	.v-application {
 		background: #080808 !important;
+	}
+
+	main {
+		padding: 60px 40px 40px 40px;
 	}
 
 	@media screen and (min-width: 1300px) {
