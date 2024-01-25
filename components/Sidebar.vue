@@ -42,16 +42,16 @@
 </template>
 
 <style>
-	@media screen and (min-width: 1000px) {
+	@media screen and (min-width: 1100px) {
 		aside {
-			max-width: 475px;
+			max-width: 525px;
 			width: 100%;
 			background: #404040;
 			float: left;
 		}
 
 		aside > div {
-			max-width: 325px;
+			max-width: 350px;
 			margin-left: auto;
 			padding: unset !important;
 		}

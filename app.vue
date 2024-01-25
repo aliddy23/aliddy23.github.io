@@ -53,7 +53,7 @@
 	html,
 	body,
 	.v-application {
-		background: #010101 !important;
+		background: #080808 !important;
 	}
 
 	@media screen and (min-width: 768px) {
@@ -83,7 +83,7 @@
 		}
 	}
 
-	@media screen and (min-width: 1300px) {
+	@media screen and (min-width: 1450px) {
 		.charms.achievements,
 		.charms.education {
 			display: flex;
