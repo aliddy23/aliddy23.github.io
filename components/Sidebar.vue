@@ -36,7 +36,7 @@
 				</p>
 
 				<p class="mt-12 pb-12">
-					<a class="d-flex" href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download as PDF</a>
+					<a class="d-flex" href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download Resumé</a>
 				</p>
 			</section>
 		</div>
@@ -76,7 +76,7 @@
 		}
 
 		aside > div {
-			max-width: 350px;
+			max-width: 300px;
 			margin-left: auto;
 			padding: unset !important;
 		}

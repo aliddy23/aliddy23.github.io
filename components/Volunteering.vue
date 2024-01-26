@@ -35,7 +35,7 @@
 				<li>Earned the rank of Eagle Scout in 2022, the highest and most coveted award given in Scouting.</li>
 				<li>Served as Senior Patrol Leader, the highest youth position who oversees all Troop operations.</li>
 				<li>Earned over 200 hours of community service through many projects for various local and national organizations.</li>
-				<li>Led a crew of 12 on a 14-day backpacking trip in the Rocky Mountains and a crew of 10 on a 7-day sailing trip in the Florida Keys.</li>
+				<li>Led a crew on a 14-day backpacking trip in the Rocky Mountains and a crew on a 7-day sailing trip in the Florida Keys.</li>
 			</ul>
 		</div>
 	</section>

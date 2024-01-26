@@ -73,7 +73,7 @@
 			height: 100vh;
 			overflow-y: scroll;
 			overflow-x: hidden;
-			padding-right: 175px;
+			padding-right: 225px;
 		}
 	}
 
