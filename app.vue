@@ -82,6 +82,7 @@
 	}
 
 	.charms {
+		margin-top: 2px;
 		white-space: nowrap;
 		color: #bdbdbd;
 	}
