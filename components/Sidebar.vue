@@ -8,8 +8,10 @@
 			</section>
 
 			<section class="mb-6">
-				<p class="d-flex mb-3">
-					<a href="https://www.google.com/maps/place/Pittsburgh,+PA" target="_blank"><v-icon class="mr-2">mdi-map-marker</v-icon>Pittsburgh, PA</a>
+				<p class="mb-3">
+					<a class="d-flex" href="https://www.google.com/maps/place/Pittsburgh,+PA" target="_blank"
+						><v-icon class="mr-2">mdi-map-marker</v-icon>Pittsburgh, PA</a
+					>
 				</p>
 				<div class="mb-3">
 					<a class="d-flex" href="https://www.sci.pitt.edu/academics/undergraduate-majors/computer-science" target="_blank">
@@ -17,24 +19,24 @@
 						<p>Computer Science,<br />University of Pittsburgh</p>
 					</a>
 				</div>
-				<p class="d-flex mb-3">
-					<a href="mailto:aidan@aidanliddy.com"><v-icon class="mr-2">mdi-email</v-icon>aidan@aidanliddy.com</a>
+				<p class="mb-3">
+					<a class="d-flex" href="mailto:aidan@aidanliddy.com"><v-icon class="mr-2">mdi-email</v-icon>aidan@aidanliddy.com</a>
 				</p>
-				<p class="d-flex mb-3">
-					<a href="tel:+14124270411"><v-icon class="mr-2">mdi-phone</v-icon>(412) 427-0411</a>
+				<p class="mb-3">
+					<a class="d-flex" href="tel:+14124270411"><v-icon class="mr-2">mdi-phone</v-icon>(412) 427-0411</a>
 				</p>
-				<p class="d-flex mb-3">
-					<a href="https://github.com/aliddy23" target="_blank"><v-icon class="mr-2">mdi-github</v-icon>aliddy23</a>
+				<p class="mb-3">
+					<a class="d-flex" href="https://github.com/aliddy23" target="_blank"><v-icon class="mr-2">mdi-github</v-icon>aliddy23</a>
 				</p>
-				<p class="d-flex mb-3">
-					<a href="https://www.linkedin.com/in/aidanliddy" target="_blank"><v-icon class="mr-2">mdi-linkedin</v-icon>in/aidanliddy</a>
+				<p class="mb-3">
+					<a class="d-flex" href="https://www.linkedin.com/in/aidanliddy" target="_blank"><v-icon class="mr-2">mdi-linkedin</v-icon>in/aidanliddy</a>
 				</p>
-				<p class="d-flex mb-3">
-					<a href="https://www.instagram.com/liddy.aidan" target="_blank"><v-icon class="mr-2">mdi-instagram</v-icon>liddy.aidan</a>
+				<p class="mb-3">
+					<a class="d-flex" href="https://www.instagram.com/liddy.aidan" target="_blank"><v-icon class="mr-2">mdi-instagram</v-icon>liddy.aidan</a>
 				</p>
 
-				<p class="d-flex mt-12 pb-12">
-					<a href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download as PDF</a>
+				<p class="mt-12 pb-12">
+					<a class="d-flex" href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download as PDF</a>
 				</p>
 			</section>
 		</div>
