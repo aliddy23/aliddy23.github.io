@@ -29,7 +29,7 @@
 					<a class="d-flex" href="https://github.com/aliddy23" target="_blank"><v-icon class="mr-2">mdi-github</v-icon>aliddy23</a>
 				</p>
 				<p class="mb-3">
-					<a class="d-flex" href="https://www.linkedin.com/in/aidanliddy" target="_blank"><v-icon class="mr-2">mdi-linkedin</v-icon>in/aidanliddy</a>
+					<a class="d-flex" href="https://www.linkedin.com/in/aidanliddy" target="_blank"><v-icon class="mr-2">mdi-linkedin</v-icon>aidanliddy</a>
 				</p>
 				<p class="mb-3">
 					<a class="d-flex" href="https://www.instagram.com/liddy.aidan" target="_blank"><v-icon class="mr-2">mdi-instagram</v-icon>liddy.aidan</a>

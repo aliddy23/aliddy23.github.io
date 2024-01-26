@@ -6,18 +6,13 @@
 
 		<v-row>
 			<v-col cols="12" md="4">
-				<h6 class="text-h6">Software Engineering</h6>
-				<p class="mt-2">
-					Responsive Web, HTML, CSS, Node.js, JavaScript, Vue.js, Java, Python, C#, .NET, Docker, SQL, MongoDB, Git, GitHub, Azure DevOps, and CI/CD
-				</p>
+				<h6 class="text-h6">Development</h6>
+				<p class="mt-2">Responsive Web, HTML, CSS, JavaScript, Node.js, Vue.js, Java, MongoDB, Git, GitHub, and Azure DevOps</p>
 			</v-col>
 
 			<v-col cols="12" md="4">
 				<h6 class="text-h6">Information Technology</h6>
-				<p class="mt-2">
-					Client OS's, Windows Server, Juniper Networking, vSphere, Hyper-V, Active Directory, Group Policy, DNS, DHCP, Azure, Microsoft 365, VPN,
-					Access Control, SQL Server, SIS, and LMS
-				</p>
+				<p class="mt-2">Windows Server, Networking, vSphere, Hyper-V, Active Directory, Group Policy, Azure, Microsoft 365, and SQL Server</p>
 			</v-col>
 
 			<v-col cols="12" md="4">

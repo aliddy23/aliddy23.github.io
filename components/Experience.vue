@@ -1,6 +1,6 @@
 <template>
 	<section class="mb-12">
-		<h4 class="text-h4 font-weight-bold">Work Experience</h4>
+		<h4 class="text-h4 font-weight-bold">Experience</h4>
 
 		<v-divider class="my-4"></v-divider>
 
@@ -8,7 +8,9 @@
 			<h5 class="text-h5">Student Technical Consultant</h5>
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
-					<a class="d-flex" href="https://www.technology.pitt.edu" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Pitt IT</a>
+					<a class="d-flex" href="https://www.technology.pitt.edu" target="_blank"
+						><v-icon class="mr-2">mdi-domain</v-icon>University of Pittsburgh</a
+					>
 				</p>
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>November 2023 - present</p>
 			</div>
@@ -46,13 +48,8 @@
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Understudied with certified professional IT personnel.</li>
-				<li>Administered a large network of switches and access points.</li>
-				<li>Extensive experience with various on-site device imaging systems.</li>
-				<li>Implemented a Microsoft Azure Hybrid Cloud setup.</li>
+				<li>Administered a large, enterprise-grade network.</li>
 				<li>Managed a team of three high school interns.</li>
-				<li>Created and managed a complex, multi-building access control system.</li>
-				<li>Gained valuable professional and personal skills.</li>
-				<li>Supported student information and learning management systems.</li>
 			</ul>
 		</div>
 	</section>
