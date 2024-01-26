@@ -46,15 +46,16 @@
 		color: #cfd8dc;
 	}
 
-	a {
+	a,
+	a * {
 		text-decoration: none;
 		color: unset;
+		transition: 0.4s;
 	}
 
 	a:hover,
 	a:hover * {
 		color: white !important;
-		transition: 0.4s;
 	}
 
 	html,

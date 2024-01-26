@@ -15,7 +15,7 @@
 			<v-col cols="12" md="4">
 				<h6 class="text-h6">Information Technology</h6>
 				<p class="mt-2">
-					Client OS's, Windows Server, Juniper, Networking vSphere, Hyper-V, Active Directory, Group Policy, DNS, DHCP, Azure, Microsoft 365, VPN,
+					Client OS's, Windows Server, Juniper Networking, vSphere, Hyper-V, Active Directory, Group Policy, DNS, DHCP, Azure, Microsoft 365, VPN,
 					Access Control, SQL Server, SIS, and LMS
 				</p>
 			</v-col>
