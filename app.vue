@@ -29,8 +29,21 @@
 </script>
 
 <style>
+	.text-h4 {
+		color: #eceff1;
+	}
+
+	.text-h5,
+	.text-h6 {
+		color: #cfd8dc;
+	}
+
 	* {
 		font-family: "Playfair Display" !important;
+	}
+
+	li {
+		color: #cfd8dc;
 	}
 
 	a {
@@ -85,7 +98,7 @@
 	.charms {
 		margin-top: 2px;
 		white-space: nowrap;
-		color: #bdbdbd;
+		color: #90a4ae;
 	}
 
 	.charms > p {
@@ -99,7 +112,8 @@
 	}
 
 	.v-divider {
-		opacity: 60% !important;
+		opacity: 100% !important;
+		border-color: #455a64 !important;
 		border-width: 3px 0 0 0 !important;
 	}
 </style>
