@@ -7,9 +7,9 @@
 				<main>
 					<Experience />
 					<Education />
-					<Volunteering />
-					<Achievements />
 					<Skills />
+					<Achievements />
+					<Volunteering />
 				</main>
 			</v-main>
 		</v-layout>
@@ -35,6 +35,7 @@
 
 	a {
 		text-decoration: none;
+		color: unset;
 	}
 
 	a:hover,

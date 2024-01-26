@@ -7,13 +7,11 @@
 		<div class="mb-8">
 			<h5 class="text-h5">Student Technical Consultant</h5>
 			<div class="charms experience" style="white-space: nowrap">
-				<p class="mr-6 d-flex"><v-icon class="mr-2">mdi-domain</v-icon>Pitt IT</p>
+				<p class="mr-6">
+					<a class="d-flex" href="https://www.technology.pitt.edu" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Pitt IT</a>
+				</p>
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>November 2023 - present</p>
 			</div>
-			<!-- <div class="mt-1 charms experience" style="white-space: nowrap">
-				<p class="mr-6 mb-1 d-flex"><v-icon class="mr-2">mdi-domain</v-icon>Pitt IT</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>November 2023 - present</p>
-			</div> -->
 			<ul class="ml-6 mt-3">
 				<li>Helped customers with their technical needs.</li>
 				<li>Learned proper customer service techniques and methods.</li>
@@ -24,7 +22,9 @@
 		<div class="mb-8">
 			<h5 class="text-h5">Product Technical Lead</h5>
 			<div class="charms experience">
-				<p class="mr-6 d-flex"><v-icon class="mr-2">mdi-domain</v-icon>Plexus Parc</p>
+				<p class="mr-6">
+					<a class="d-flex" href="https://www.plexusparc.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Plexus Parc</a>
+				</p>
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2020 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">
@@ -37,7 +37,11 @@
 		<div class="mb-8">
 			<h5 class="text-h5">IT Systems Engineer</h5>
 			<div class="charms experience">
-				<p class="mr-6 d-flex"><v-icon class="mr-2">mdi-domain</v-icon>Central Catholic High School</p>
+				<p class="mr-6">
+					<a class="d-flex" href="https://www.centralcatholichs.com" target="_blank">
+						<v-icon class="mr-2">mdi-domain</v-icon>Central Catholic High School
+					</a>
+				</p>
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2020 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">

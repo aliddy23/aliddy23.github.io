@@ -1,5 +1,5 @@
 <template>
-	<section>
+	<section class="mb-12">
 		<h4 class="text-h4 font-weight-bold">Skills</h4>
 
 		<v-divider class="my-4"></v-divider>
