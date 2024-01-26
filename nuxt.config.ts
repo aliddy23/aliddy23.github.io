@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 			enabled: true,
 		},
 	},
-	css: ["vuetify/styles"],
+	css: ["vuetify/styles", "~/assets/styles.css"],
 	vite: {
 		ssr: {
 			noExternal: ["vuetify"],

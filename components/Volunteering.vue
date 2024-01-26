@@ -1,8 +1,8 @@
 <template>
 	<section>
-		<h4 class="text-h4 font-weight-bold">Volunteering</h4>
+		<h4 class="text-h4">Volunteering</h4>
 
-		<v-divider class="my-4"></v-divider>
+		<hr />
 
 		<div class="mb-8">
 			<h5 class="text-h5">Mentor and Coach</h5>

@@ -1,0 +1,163 @@
+.text-h3 {
+	font-weight: 700;
+}
+
+.text-h4 {
+	color: #eceff1;
+	font-weight: 700;
+}
+
+.text-h5,
+.text-h6 {
+	color: #cfd8dc;
+}
+
+* {
+	font-family: "Playfair Display" !important;
+}
+
+li {
+	color: #cfd8dc;
+}
+
+a,
+a * {
+	text-decoration: none;
+	color: unset;
+	transition: 0.2s;
+}
+
+a:hover,
+a:hover * {
+	color: white !important;
+}
+
+html,
+body,
+.v-application {
+	background: #080808 !important;
+}
+
+main {
+	padding: 40px;
+}
+
+@media screen and (min-width: 1300px) {
+	main {
+		height: 100vh;
+		overflow-y: scroll;
+		overflow-x: hidden;
+		padding-right: 225px;
+	}
+}
+
+@media screen and (min-width: 950px) and (max-width: 1300px) {
+	main {
+		height: 100vh;
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 950px) {
+	main {
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+}
+
+ul {
+	list-style-type: square;
+}
+
+.charms {
+	margin-top: 2px;
+	white-space: nowrap;
+	color: #90a4ae;
+}
+
+.charms > p {
+	margin-top: 4px;
+}
+
+@media screen and (min-width: 550px) {
+	.charms:not(.achievements):not(.education) {
+		display: flex;
+	}
+}
+
+hr {
+	opacity: 100%;
+	border-color: #455a64;
+	border-width: 3px 0 0 0;
+	margin: 12px 0px;
+}
+
+@media screen and (min-width: 950px) and (max-width: 1300px) {
+	aside {
+		max-width: 400px;
+		width: 100%;
+		background: #404040;
+		float: left;
+		overflow-y: scroll;
+		height: 100vh;
+	}
+
+	aside > div {
+		margin-left: 56px;
+		padding: unset !important;
+	}
+
+	.v-avatar {
+		margin-top: 100px;
+	}
+}
+
+@media screen and (min-width: 1300px) {
+	aside {
+		max-width: 525px;
+		width: 100%;
+		background: #404040;
+		float: left;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		height: 100vh;
+	}
+
+	aside > div {
+		max-width: 300px;
+		margin-left: auto;
+		padding: unset !important;
+	}
+
+	.v-avatar {
+		margin-top: 76px;
+	}
+}
+
+@media screen and (max-width: 950px) {
+	aside > div {
+		margin-left: 56px;
+		padding: unset !important;
+	}
+
+	.v-avatar {
+		margin-top: 36px;
+	}
+}
+
+aside {
+	min-height: 100vh;
+}
+
+aside * {
+	color: #b0bec5;
+}
+
+aside h4 {
+	color: white;
+}
+
+aside > div {
+	padding: 0px 12px 0px 15dvw;
+}
