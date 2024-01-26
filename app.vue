@@ -37,15 +37,10 @@
 		text-decoration: none;
 	}
 
-	a:hover {
-		text-decoration: underline;
-		color: white !important;
-		transition: 0.5s;
-	}
-
+	a:hover,
 	a:hover * {
 		color: white !important;
-		transition: 0.5s;
+		transition: 0.4s;
 	}
 
 	html,

@@ -8,10 +8,14 @@
 			</section>
 
 			<section class="mb-6">
-				<p class="d-flex mb-3"><v-icon class="mr-2">mdi-map-marker</v-icon>Pittsburgh, PA</p>
-				<div class="d-flex mb-3">
-					<v-icon class="mr-2">mdi-school</v-icon>
-					<p>Computer Science,<br />University of Pittsburgh</p>
+				<p class="d-flex mb-3">
+					<a href="https://www.google.com/maps/place/Pittsburgh,+PA" target="_blank"><v-icon class="mr-2">mdi-map-marker</v-icon>Pittsburgh, PA</a>
+				</p>
+				<div class="mb-3">
+					<a class="d-flex" href="https://www.sci.pitt.edu/academics/undergraduate-majors/computer-science" target="_blank">
+						<v-icon class="mr-2">mdi-school</v-icon>
+						<p>Computer Science,<br />University of Pittsburgh</p>
+					</a>
 				</div>
 				<p class="d-flex mb-3">
 					<a href="mailto:aidan@aidanliddy.com"><v-icon class="mr-2">mdi-email</v-icon>aidan@aidanliddy.com</a>
