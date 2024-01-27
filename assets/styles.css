@@ -87,9 +87,8 @@ ul {
 }
 
 hr {
-	opacity: 100%;
-	border-color: #455a64;
-	border-width: 3px 0 0 0;
+	opacity: 75%;
+	border: 2px solid #455a64;
 	margin: 12px 0px;
 }
 
