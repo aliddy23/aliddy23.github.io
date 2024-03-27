@@ -23,6 +23,7 @@ export default defineNuxtConfig({
 		},
 		"nuxt-server-utils",
 		"@nuxt/image",
+		"nuxt-security",
 	],
 	ssr: true,
 	components: ["~/components"],
