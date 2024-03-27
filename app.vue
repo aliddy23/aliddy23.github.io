@@ -5,6 +5,7 @@
 				<Sidebar />
 
 				<main>
+					<Gallery />
 					<Experience />
 					<Education />
 					<Skills />
@@ -22,7 +23,19 @@
 		link: [
 			{
 				rel: "stylesheet",
-				href: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap",
+				href: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;800&display=swap",
+			},
+			{
+				rel: "preconnect",
+				href: "https://fonts.googleapis.com",
+				crossorigin: "anonymous",
+			},
+		],
+		meta: [
+			{
+				name: "description",
+				content:
+					"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in and around Pittsburgh, PA.",
 			},
 		],
 	});
