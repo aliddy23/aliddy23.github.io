@@ -30,7 +30,8 @@
 						><v-icon class="mr-2">mdi-domain</v-icon>University of Pittsburgh</a
 					>
 				</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>November 2023 - present</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>November 2023 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Helped customers with their technical needs.</li>
@@ -45,7 +46,8 @@
 				<p class="mr-6">
 					<a class="d-flex" href="https://www.plexusparc.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Plexus Parc</a>
 				</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2020 - present</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2020 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Developed enterprise-grade record management systems for local governments.</li>
@@ -62,7 +64,8 @@
 						<v-icon class="mr-2">mdi-domain</v-icon>Central Catholic High School
 					</a>
 				</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - present</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Understudied with certified professional IT personnel.</li>
