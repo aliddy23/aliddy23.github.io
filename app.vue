@@ -1,16 +1,19 @@
 <template>
 	<v-app>
 		<v-layout>
-			<v-main>
+			<v-main style="overflow: hidden">
 				<Sidebar />
 
-				<main>
+				<main class="main">
 					<Gallery />
 					<Experience />
 					<Education />
+					<Projects />
 					<Skills />
 					<Achievements />
 					<Volunteering />
+					<Extracurriculars />
+					<Leadership />
 				</main>
 			</v-main>
 		</v-layout>
@@ -35,8 +38,36 @@
 			{
 				name: "description",
 				content:
-					"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in and around Pittsburgh, PA.",
+					"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+			},
+			{
+				name: "color-scheme",
+				content: "dark",
+			},
+			{
+				name: "author",
+				content: "Aidan D. Liddy",
 			},
 		],
 	});
+
+	useSeoMeta({
+		description:
+			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		ogTitle: "Aidan Liddy",
+		ogDescription:
+			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		ogImage: "/favicon.ico",
+		ogUrl: "https://www.aidanliddy.com",
+		twitterTitle: "Aidan Liddy",
+		twitterDescription:
+			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		twitterCard: "summary",
+	});
 </script>
+
+<style scoped>
+	.main > *:not(:last-child) {
+		margin-bottom: 32px;
+	}
+</style>

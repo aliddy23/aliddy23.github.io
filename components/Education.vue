@@ -1,5 +1,5 @@
 <template>
-	<section class="mb-12">
+	<section>
 		<h4 class="text-h4">Education</h4>
 
 		<hr />
@@ -10,7 +10,7 @@
 				<div class="charms education">
 					<a class="d-flex mt-1" href="https://www.centralcatholichs.com" target="_blank">
 						<v-icon class="mr-2">mdi-school-outline</v-icon>
-						High School<br />Graduated with High Honors
+						High School,<br />Graduated with High Honors
 					</a>
 					<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - May 2023</p>
 				</div>

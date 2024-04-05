@@ -1,12 +1,12 @@
 <template>
-	<section class="mb-12">
+	<section>
 		<h4 class="text-h4">Skills</h4>
 
 		<hr />
 
 		<v-row>
 			<v-col cols="12" md="4">
-				<h6 class="text-h6">Development</h6>
+				<h6 class="text-h6">Software</h6>
 				<p class="mt-1">Responsive Web, HTML, CSS, JavaScript, Node.js, Vue.js, Java, MongoDB, and Git</p>
 			</v-col>
 
@@ -22,3 +22,9 @@
 		</v-row>
 	</section>
 </template>
+
+<style scoped>
+	p {
+		color: #cfd8dc;
+	}
+</style>

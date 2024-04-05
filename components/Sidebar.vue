@@ -38,7 +38,7 @@
 				</p>
 
 				<p class="mt-12 pb-10">
-					<a class="d-flex" href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-down</v-icon>Download Résumé</a>
+					<a class="d-flex" href="/resume.pdf" target="_blank"><v-icon class="mr-2">mdi-arrow-top-right</v-icon>View Résumé</a>
 				</p>
 			</section>
 		</div>

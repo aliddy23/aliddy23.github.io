@@ -1,5 +1,5 @@
 <template>
-	<section class="mb-12">
+	<section>
 		<h4 class="text-h4">Experience</h4>
 
 		<hr />
@@ -22,7 +22,7 @@
 			</ul>
 		</div> -->
 
-		<div class="mb-8">
+		<div class="item">
 			<h5 class="text-h5">Student Technical Consultant</h5>
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
@@ -39,7 +39,7 @@
 			</ul>
 		</div>
 
-		<div class="mb-8">
+		<div class="item">
 			<h5 class="text-h5">Product Technical Lead</h5>
 			<div class="charms experience">
 				<p class="mr-6">
@@ -54,7 +54,7 @@
 			</ul>
 		</div>
 
-		<div class="mb-8">
+		<div class="item">
 			<h5 class="text-h5">IT Systems Engineer</h5>
 			<div class="charms experience">
 				<p class="mr-6">
@@ -72,3 +72,9 @@
 		</div>
 	</section>
 </template>
+
+<style scoped>
+	.item:not(:last-child) {
+		margin-bottom: 32px;
+	}
+</style>

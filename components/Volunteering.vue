@@ -4,7 +4,7 @@
 
 		<hr />
 
-		<div class="mb-8">
+		<div class="item">
 			<h5 class="text-h5">Mentor and Coach</h5>
 			<div class="charms volunteering">
 				<p class="mr-6 d-flex">
@@ -12,7 +12,7 @@
 						<v-icon class="mr-2">mdi-account-group-outline</v-icon>FIRST Robotics Competition
 					</a>
 				</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>May 2023 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Participated in numerous regional competitions across the country.</li>
@@ -21,7 +21,7 @@
 			</ul>
 		</div>
 
-		<div>
+		<div class="item">
 			<h5 class="text-h5">Adult Leader</h5>
 			<div class="charms volunteering">
 				<p class="mr-6">
@@ -29,7 +29,7 @@
 						<v-icon class="mr-2">mdi-account-group-outline</v-icon>Boy Scouts of America
 					</a>
 				</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>October 2011 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>January 2023 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Earned the rank of Eagle Scout in 2022, the highest and most coveted award given in Scouting.</li>
@@ -40,3 +40,9 @@
 		</div>
 	</section>
 </template>
+
+<style scoped>
+	.item:not(:last-child) {
+		margin-bottom: 32px;
+	}
+</style>
