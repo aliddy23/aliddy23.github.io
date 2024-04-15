@@ -42,7 +42,7 @@ body,
 	background: #080808 !important;
 }
 
-main {
+.main {
 	padding: 40px;
 }
 
@@ -51,6 +51,9 @@ main {
 		height: 100vh;
 		overflow-y: scroll;
 		overflow-x: hidden;
+	}
+
+	.main {
 		padding-right: 225px;
 	}
 }

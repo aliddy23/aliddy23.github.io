@@ -4,16 +4,22 @@
 			<v-main style="overflow: hidden">
 				<Sidebar />
 
-				<main class="main">
-					<Gallery />
-					<Experience />
-					<Education />
-					<Projects />
-					<Skills />
-					<Achievements />
-					<Volunteering />
-					<Extracurriculars />
-					<Leadership />
+				<main>
+					<section class="main">
+						<Gallery />
+						<Experience />
+						<Education />
+						<Projects />
+						<Skills />
+						<Achievements />
+						<Volunteering />
+						<Extracurriculars />
+						<Leadership />
+					</section>
+
+					<footer style="background: #0c0c0c; color: #a3a3a3" class="pa-12 text-center font-italic">
+						<p>&copy; {{ new Date().getFullYear() }} Aidan Liddy.</p>
+					</footer>
 				</main>
 			</v-main>
 		</v-layout>

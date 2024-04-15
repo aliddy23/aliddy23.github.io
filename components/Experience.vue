@@ -13,7 +13,8 @@
 					>
 				</p>
 				<p class="mr-6 d-flex"><v-icon class="mr-2">mdi-map-marker-outline</v-icon>Dublin, Ireland</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>January 2024 - present</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>January 2024 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
 			</div>
 			<ul class="ml-6 mt-3">
 				<li>Advocated for Irish interests in the United States.</li>
