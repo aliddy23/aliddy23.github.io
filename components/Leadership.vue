@@ -5,6 +5,23 @@
 		<hr />
 
 		<div class="item">
+			<h5 class="text-h5">Summer Intern Supervisor</h5>
+			<div class="charms volunteering">
+				<p class="mr-6 d-flex">
+					<a class="d-flex" href="https://www.centralcatholichs.com" target="_blank">
+						<v-icon class="mr-2">mdi-account-group-outline</v-icon>Central Catholic High School
+					</a>
+				</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>May 2023 - August 2023</p>
+			</div>
+			<ul class="ml-6 mt-3">
+				<li>Managed three 11th grade IT interns over the summer through various tasks.</li>
+				<li>Ensured proper shift scheduling and task assignments.</li>
+				<li>Resolved conflicts and other minor incidents that ocurred.</li>
+			</ul>
+		</div>
+
+		<div class="item">
 			<h5 class="text-h5">Team Captain</h5>
 			<div class="charms volunteering">
 				<p class="mr-6 d-flex">
