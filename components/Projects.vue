@@ -6,6 +6,26 @@
 
 		<v-row>
 			<v-col cols="12" md="4">
+				<v-card class="mb-3 mt-2 elevation-12" href="https://masters.aidanliddy.com" target="_blank">
+					<v-img src="/projects/masters.webp"></v-img>
+				</v-card>
+				<h5 class="text-h5">The Masters Client</h5>
+				<div class="charms achievements">
+					<p>
+						<a class="d-flex" href="https://masters.aidanliddy.com" target="_blank">
+							<v-icon class="mr-2">mdi-link-variant</v-icon>masters.aidanliddy.com
+						</a>
+					</p>
+					<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>April 2024</p>
+
+					<p style="white-space: initial; color: #cfd8dc" class="mt-3">
+						A quick app for watching the livestream, checking up on the leader board, and tracking players' shots for the Masters. Built with Vue.js
+						and Nuxt. Data read from the Masters' API and stored in MongoDB.
+					</p>
+				</div>
+			</v-col>
+
+			<v-col cols="12" md="4">
 				<v-card class="mb-3 mt-2 elevation-12" href="https://www.frclookout.com" target="_blank">
 					<v-img src="/projects/lookout.webp"></v-img>
 				</v-card>
@@ -27,7 +47,7 @@
 				<v-card class="mb-3 mt-2 elevation-12" href="https://www.team2641.com" target="_blank">
 					<v-img src="/projects/robot.webp"></v-img>
 				</v-card>
-				<h5 class="text-h5">2023 Competition Robot</h5>
+				<h5 class="text-h5">Robot for 2023</h5>
 				<div class="charms achievements">
 					<p>
 						<a class="d-flex" href="https://www.team2641.com" target="_blank"> <v-icon class="mr-2">mdi-link-variant</v-icon>www.team2641.com </a>
