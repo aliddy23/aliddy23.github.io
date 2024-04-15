@@ -65,7 +65,7 @@
 						<v-icon class="mr-2">mdi-domain</v-icon>Central Catholic High School
 					</a>
 				</p>
-				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - present</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2019 - August 2023</p>
 				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
 			</div>
 			<ul class="ml-6 mt-3">
