@@ -24,7 +24,7 @@
 		</div> -->
 
 		<div class="item">
-			<h5 class="text-h5">Student Technical Consultant</h5>
+			<h5 class="text-h5">Senior Technical Consultant</h5>
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
 					<a class="d-flex" href="https://www.technology.pitt.edu" target="_blank"
