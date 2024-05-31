@@ -4,6 +4,22 @@
 
 		<hr />
 
+		<div class="item">
+			<h5 class="text-h5">Summer Staff</h5>
+			<div class="charms experience" style="white-space: nowrap">
+				<p class="mr-6">
+					<a class="d-flex" href="https://centralintegrations.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Central Integrations</a>
+				</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>June 2024 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Jun-Aug only</p>
+			</div>
+			<ul class="ml-6 mt-3">
+				<li>Implemented a muti-site hybrid cloud Active Directory domain.</li>
+				<li>Facilitated network migrations and simplifications.</li>
+				<li>Ensured the highest quality of service possible.</li>
+			</ul>
+		</div>
+
 		<!-- <div class="mb-8">
 			<h5 class="text-h5">Junior Ambassador to Ireland</h5>
 			<div class="charms experience" style="white-space: nowrap">
@@ -38,6 +54,24 @@
 				<li>Helped customers with their technical needs.</li>
 				<li>Learned proper customer service techniques and methods.</li>
 				<li>Further expanded crticial thinking and problem-solving skills.</li>
+			</ul>
+		</div>
+
+		<div class="item">
+			<h5 class="text-h5">Editor</h5>
+			<div class="charms experience" style="white-space: nowrap">
+				<p class="mr-6">
+					<a class="d-flex" href="https://www.simplysistersphotography.com" target="_blank"
+						><v-icon class="mr-2">mdi-domain</v-icon>Simply Sisters Photography</a
+					>
+				</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>July 2022 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Remote</p>
+			</div>
+			<ul class="ml-6 mt-3">
+				<li>Edited photos from various events, such as weddings and graduations.</li>
+				<li>Worked with customers for custom edits.</li>
+				<li>Managed online photo catalog.</li>
 			</ul>
 		</div>
 
