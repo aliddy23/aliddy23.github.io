@@ -5,7 +5,7 @@
 		<hr />
 
 		<div class="item">
-			<h5 class="text-h5">Summer Staff</h5>
+			<h5 class="text-h5">Network Analyst</h5>
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
 					<a class="d-flex" href="https://centralintegrations.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Central Integrations</a>
