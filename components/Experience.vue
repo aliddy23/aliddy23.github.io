@@ -58,24 +58,6 @@
 		</div>
 
 		<div class="item">
-			<h5 class="text-h5">Editor</h5>
-			<div class="charms experience" style="white-space: nowrap">
-				<p class="mr-6">
-					<a class="d-flex" href="https://www.simplysistersphotography.com" target="_blank"
-						><v-icon class="mr-2">mdi-domain</v-icon>Simply Sisters Photography</a
-					>
-				</p>
-				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>July 2022 - present</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Remote</p>
-			</div>
-			<ul class="ml-6 mt-3">
-				<li>Edited photos from various events, such as weddings and graduations.</li>
-				<li>Worked with customers for custom edits.</li>
-				<li>Managed online photo catalog.</li>
-			</ul>
-		</div>
-
-		<div class="item">
 			<h5 class="text-h5">Product Technical Lead</h5>
 			<div class="charms experience">
 				<p class="mr-6">
