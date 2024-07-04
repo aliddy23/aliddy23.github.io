@@ -57,7 +57,7 @@
 			</ul>
 		</div>
 
-		<div class="item">
+		<!-- <div class="item">
 			<h5 class="text-h5">Product Technical Lead</h5>
 			<div class="charms experience">
 				<p class="mr-6">
@@ -71,7 +71,7 @@
 				<li>Worked with content management and delivery networks.</li>
 				<li>Consulted several organizations on various IT-related needs.</li>
 			</ul>
-		</div>
+		</div> -->
 
 		<div class="item">
 			<h5 class="text-h5">IT Systems Engineer</h5>
