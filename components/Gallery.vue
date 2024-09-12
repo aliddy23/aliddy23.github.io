@@ -4,8 +4,8 @@
 
 		<hr class="mb-5" />
 
-		<v-row>
-			<v-col cols="12" sm="6" md="4" v-for="photo in gallery">
+		<v-row no-gutters class="ma-n2">
+			<v-col cols="12" sm="6" md="4" class="pa-2" v-for="photo in gallery">
 				<Photo :photo="photo" />
 			</v-col>
 		</v-row>
