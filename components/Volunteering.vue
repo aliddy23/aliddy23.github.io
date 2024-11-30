@@ -5,7 +5,7 @@
 		<hr />
 
 		<div class="item">
-			<h5 class="text-h5">Mentor and Coach</h5>
+			<h5 class="text-h5">Assistant Head Coach</h5>
 			<div class="charms volunteering">
 				<p class="mr-6 d-flex">
 					<a class="d-flex" href="https://www.team2641.com" target="_blank">
@@ -15,14 +15,14 @@
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>May 2023 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">
-				<li>Participated in numerous regional competitions across the country.</li>
 				<li>Designed, prototyped, tested, and implemented a competition-ready robot within six weeks each season.</li>
 				<li>Served as team captain my senior year and lead programmer for the two previous years.</li>
+				<li>Fostered a cohesive team attuned to rapid problem-solving and outside-the-box thinking.</li>
 			</ul>
 		</div>
 
 		<div class="item">
-			<h5 class="text-h5">Adult Leader</h5>
+			<h5 class="text-h5">Assistant Scoutmaster</h5>
 			<div class="charms volunteering">
 				<p class="mr-6">
 					<a class="d-flex" href="https://www.bsa-troop90.org" target="_blank">
@@ -32,9 +32,9 @@
 				<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>January 2023 - present</p>
 			</div>
 			<ul class="ml-6 mt-3">
-				<li>Organized Troop meetings, campouts, and trips.</li>
-				<li>Managed Troop inventory, ordering, and finances.</li>
-				<li>Helped many Scouts earn rank advancements and merit badges.</li>
+				<li>Earned the rank of Eagle Scout in 2022, the highest and most coveted award given in Scouting.</li>
+				<li>Served as Senior Patrol Leader, the highest youth position, overseeing all Troop operations.</li>
+				<li>Earned over 100 hours of community service through many projects for various local and national organizations.</li>
 			</ul>
 		</div>
 	</section>

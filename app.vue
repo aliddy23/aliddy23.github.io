@@ -6,7 +6,7 @@
 
 				<main>
 					<section class="main">
-						<Gallery />
+						<!-- <Gallery /> -->
 						<Experience />
 						<Education />
 						<Projects />
@@ -17,8 +17,8 @@
 						<Leadership />
 					</section>
 
-					<footer style="background: #0c0c0c; color: #a3a3a3" class="pa-12 text-center font-italic">
-						<p>&copy; {{ new Date().getFullYear() }} Aidan Liddy.</p>
+					<footer style="background: #161616; color: #a3a3a3" class="pa-12 text-center font-italic">
+						<p>&copy; {{ new Date().getFullYear() }} Aidan Liddy</p>
 					</footer>
 				</main>
 			</v-main>
@@ -43,8 +43,7 @@
 		meta: [
 			{
 				name: "description",
-				content:
-					"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+				content: "Aidan Liddy is a sophomore CS major at the University of Pittsburgh.",
 			},
 			{
 				name: "color-scheme",
@@ -58,16 +57,13 @@
 	});
 
 	useSeoMeta({
-		description:
-			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		description: "Aidan Liddy is a sophomore CS major at the University of Pittsburgh.",
 		ogTitle: "Aidan Liddy",
-		ogDescription:
-			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		ogDescription: "Aidan Liddy is a sophomore CS major at the University of Pittsburgh.",
 		ogImage: "/favicon.ico",
 		ogUrl: "https://www.aidanliddy.com",
 		twitterTitle: "Aidan Liddy",
-		twitterDescription:
-			"Aidan Liddy is a computer science major at the University of Pittsburgh and is open to opportunities in the tech industry in the greater Pittsburgh area.",
+		twitterDescription: "Aidan Liddy is a sophomore CS major at the University of Pittsburgh.",
 		twitterCard: "summary",
 	});
 </script>
