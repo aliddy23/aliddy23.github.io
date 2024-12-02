@@ -27,4 +27,7 @@ export default defineNuxtConfig({
 	ssr: true,
 	components: ["~/components"],
 	compatibilityDate: "2024-09-11",
+	nitro: {
+		static: true
+	}
 });
