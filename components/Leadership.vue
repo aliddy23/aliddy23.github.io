@@ -17,7 +17,7 @@
 			<ul class="ml-6 mt-3">
 				<li>Managed three 11th grade IT interns over the summer through various tasks.</li>
 				<li>Ensured proper shift scheduling and task assignments.</li>
-				<li>Resolved conflicts and other minor incidents that ocurred.</li>
+				<li>Resolved conflicts and other minor incidents that occurred.</li>
 			</ul>
 		</div>
 

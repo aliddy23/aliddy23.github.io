@@ -43,7 +43,7 @@
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
 					<a class="d-flex" href="https://www.gov.ie/en/organisation/department-of-foreign-affairs/" target="_blank"
-						><v-icon class="mr-2">mdi-domain</v-icon>Irish Deparment of Foreign Affairs</a
+						><v-icon class="mr-2">mdi-domain</v-icon>Irish Department of Foreign Affairs</a
 					>
 				</p>
 				<p class="mr-6 d-flex"><v-icon class="mr-2">mdi-map-marker-outline</v-icon>Dublin, Ireland</p>
