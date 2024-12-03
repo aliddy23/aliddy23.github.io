@@ -2,7 +2,7 @@
 	<aside class="bg-blue-grey-darken-4 elevation-12">
 		<div>
 			<v-avatar class="ml-n6 mb-6 elevation-8" :size="200">
-				<NuxtImg src="/image.webp" alt="Headshot of Aidan Liddy" width="200" height="200" />
+				<v-img src="/image.webp" alt="Aidan Liddy" width="200" height="200" />
 			</v-avatar>
 			<section class="mb-12">
 				<h4 class="text-h3 mt-3 mb-1">Aidan</h4>
