@@ -28,6 +28,6 @@ export default defineNuxtConfig({
 	components: ["~/components"],
 	compatibilityDate: "2024-09-11",
 	nitro: {
-		static: true
+		static: true,
 	}
 });
