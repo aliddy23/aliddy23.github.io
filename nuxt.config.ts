@@ -23,11 +23,15 @@ export default defineNuxtConfig({
 		"nuxt-server-utils",
 		"@nuxt/image",
 		"nuxt-security",
+		"nuxt-gtag"
 	],
 	ssr: true,
 	components: ["~/components"],
 	compatibilityDate: "2024-09-11",
 	nitro: {
 		static: true,
-	}
+	},
+	gtag: {
+    id: 'G-E6N0F076TS'
+  }
 });
