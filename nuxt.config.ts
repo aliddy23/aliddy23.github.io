@@ -29,6 +29,10 @@ export default defineNuxtConfig({
 	components: ["~/components"],
 	compatibilityDate: "2024-09-11",
 	nitro: {
+		compressPublicAssets: {
+			gzip: true,
+			brotli: true,
+		},
 		static: true,
 	},
 	gtag: {
