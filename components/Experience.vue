@@ -5,6 +5,22 @@
 		<hr />
 
 		<div class="item">
+			<h5 class="text-h5">Network Analyst</h5>
+			<div class="charms experience" style="white-space: nowrap">
+				<p class="mr-6">
+					<a class="d-flex" href="https://centralintegrations.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Central Integrations</a>
+				</p>
+				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>June 2024 - present</p>
+				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
+			</div>
+			<ul class="ml-6 mt-3">
+				<li>Implemented a multi-site hybrid cloud Active Directory domain.</li>
+				<li>Facilitated network migrations and simplifications.</li>
+				<li>Worked with customers on solutions for their technology needs.</li>
+			</ul>
+		</div>
+
+		<div class="item">
 			<h5 class="text-h5">Senior Technical Consultant</h5>
 			<div class="charms experience" style="white-space: nowrap">
 				<p class="mr-6">
@@ -19,22 +35,6 @@
 				<li>Helped students, faculty, and staff with their technical needs.</li>
 				<li>Learned proper customer service techniques and methods.</li>
 				<li>Managed an extensive knowledge base and ticketing system.</li>
-			</ul>
-		</div>
-
-		<div class="item">
-			<h5 class="text-h5">Network Analyst</h5>
-			<div class="charms experience" style="white-space: nowrap">
-				<p class="mr-6">
-					<a class="d-flex" href="https://centralintegrations.com" target="_blank"><v-icon class="mr-2">mdi-domain</v-icon>Central Integrations</a>
-				</p>
-				<p class="d-flex mr-5"><v-icon class="mr-2">mdi-clock-outline</v-icon>June 2024 - present</p>
-				<p class="d-flex"><v-icon class="mr-2">mdi-information-variant</v-icon>Part-time</p>
-			</div>
-			<ul class="ml-6 mt-3">
-				<li>Implemented a multi-site hybrid cloud Active Directory domain.</li>
-				<li>Facilitated network migrations and simplifications.</li>
-				<li>Worked with customers on solutions for their technology needs.</li>
 			</ul>
 		</div>
 
