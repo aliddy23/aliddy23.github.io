@@ -29,7 +29,7 @@
 				</div>
 			</v-col>
 
-			<v-col cols="12" md="4">
+			<!-- <v-col cols="12" md="4">
 				<h5 class="text-h5">Autodesk Certified User</h5>
 				<div class="charms achievements">
 					<p>
@@ -37,7 +37,7 @@
 					</p>
 					<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>May 2023</p>
 				</div>
-			</v-col>
+			</v-col> -->
 		</v-row>
 	</section>
 </template>

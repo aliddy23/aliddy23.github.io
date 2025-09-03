@@ -7,7 +7,7 @@
 			<section class="mb-12">
 				<h4 class="text-h3 mt-3 mb-1">Aidan</h4>
 				<h4 class="text-h3 mb-6">Liddy</h4>
-				<p class="font-italic">Sophomore CS major at the<br />University of Pittsburgh.</p>
+				<p class="font-italic">Junior CS major at the<br />University of Pittsburgh.</p>
 			</section>
 
 			<section class="mb-6">

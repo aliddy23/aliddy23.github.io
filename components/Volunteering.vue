@@ -21,7 +21,7 @@
 			</ul>
 		</div>
 
-		<div class="item">
+		<!-- <div class="item">
 			<h5 class="text-h5">Assistant Scoutmaster</h5>
 			<div class="charms volunteering">
 				<p class="mr-6">
@@ -36,7 +36,7 @@
 				<li>Served as Senior Patrol Leader, the highest youth position, overseeing all Troop operations.</li>
 				<li>Earned over 100 hours of community service through many projects for various local and national organizations.</li>
 			</ul>
-		</div>
+		</div> -->
 	</section>
 </template>
 
