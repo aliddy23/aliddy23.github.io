@@ -21,7 +21,7 @@
 				<div class="charms education">
 					<a class="d-flex mt-1" href="https://www.sci.pitt.edu" target="_blank">
 						<v-icon class="mr-2">mdi-school-outline</v-icon>
-						BS, Computer Science,<br />Mnr, Information Science
+						BS, Computer Science<br />Minor, Information Science
 					</a>
 					<p class="d-flex"><v-icon class="mr-2">mdi-clock-outline</v-icon>August 2023 - present</p>
 				</div>

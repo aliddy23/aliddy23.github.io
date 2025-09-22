@@ -7,7 +7,7 @@
 			<section class="mb-12">
 				<h4 class="text-h3 mt-3 mb-1">Aidan</h4>
 				<h4 class="text-h3 mb-6">Liddy</h4>
-				<p class="font-italic">Junior CS major at the<br />University of Pittsburgh.</p>
+				<p class="font-italic">Computer Science major at<br />the University of Pittsburgh.</p>
 			</section>
 
 			<section class="mb-6">
@@ -19,7 +19,7 @@
 				<div class="mb-3">
 					<a class="d-flex" href="https://www.sci.pitt.edu" target="_blank">
 						<v-icon class="mr-2">mdi-school</v-icon>
-						<p>BS, Computer Science,<br />Mnr, Information Science,<br />University of Pittsburgh</p>
+						<p>BS, Computer Science,<br />Minor, Information Science,<br />University of Pittsburgh</p>
 					</a>
 				</div>
 				<p class="mb-3">
