@@ -46,7 +46,7 @@ body,
 	padding: 40px;
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1300px) and (max-width: 2000px) {
 	main {
 		height: 100vh;
 		overflow-y: scroll;
@@ -55,6 +55,18 @@ body,
 
 	.main {
 		padding-right: 225px;
+	}
+}
+
+@media screen and (min-width: 2000px) {
+	main {
+		height: 100vh;
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+
+	.main {
+		padding-right: 20vw;
 	}
 }
 
@@ -99,7 +111,7 @@ hr {
 	margin: 12px 0px;
 }
 
-@media screen and (min-width: 950px) and (max-width: 1300px) {
+@media screen and (min-width: 950px) and (max-width: 1500px) {
 	aside {
 		max-width: 400px;
 		width: 100%;
@@ -119,9 +131,31 @@ hr {
 	}
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1500px) and (max-width: 2000px) {
 	aside {
 		max-width: 525px;
+		width: 100%;
+		background: #404040;
+		float: left;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		height: 100vh;
+	}
+
+	aside > div {
+		max-width: 300px;
+		margin-left: auto;
+		padding: unset !important;
+	}
+
+	.v-avatar {
+		margin-top: 76px;
+	}
+}
+
+@media screen and (min-width: 2000px) {
+	aside {
+		max-width: 33vw;
 		width: 100%;
 		background: #404040;
 		float: left;

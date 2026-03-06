@@ -19,7 +19,7 @@
 				<div class="mb-3">
 					<a class="d-flex" href="https://www.sci.pitt.edu" target="_blank">
 						<v-icon class="mr-2">mdi-school</v-icon>
-						<p>BS, Computer Science,<br />Minor, Information Science,<br />University of Pittsburgh</p>
+						<p>BS, Computer Science,<br />Minor, Information Science,<br />University of Pittsburgh, '27</p>
 					</a>
 				</div>
 				<p class="mb-3">
