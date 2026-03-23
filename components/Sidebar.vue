@@ -23,12 +23,6 @@
 					</a>
 				</div>
 				<p class="mb-3">
-					<a class="d-flex" href="mailto:aidan@aidanliddy.com"><v-icon class="mr-2">mdi-email</v-icon>aidan@aidanliddy.com</a>
-				</p>
-				<p class="mb-3">
-					<a class="d-flex" href="tel:+14124270411"><v-icon class="mr-2">mdi-phone</v-icon>(412) 427-0411</a>
-				</p>
-				<p class="mb-3">
 					<a class="d-flex" href="https://github.com/aliddy23" target="_blank"><v-icon class="mr-2">mdi-github</v-icon>aliddy23</a>
 				</p>
 				<p class="mb-3">
